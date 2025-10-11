@@ -392,7 +392,8 @@ st.sidebar.markdown("""
 - 消費者ホットライン: 188
 - 警察相談専用電話: #9110
 - フィッシング対策協議会: https://www.antiphishing.jp/
-""")import streamlit as st
+""")
+import streamlit as st
 
 st.title("🎈 My new app")
 st.write(
