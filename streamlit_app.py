@@ -7,7 +7,6 @@ from PIL import Image
 import io
 import base64
 from urllib.parse import urlparse
-import whois
 import ssl
 import socket
 from datetime import datetime
